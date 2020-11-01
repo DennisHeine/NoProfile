@@ -7,6 +7,7 @@ For better security, also use the tampermonkey script https://pastebin.com/raw/W
 https://www.tampermonkey.net/
 
 In adition, these UBlock Origin rules will block portscans, which could also be a problem. Please add them to your UBlock settings:
+you can remove the third-party part to block more, but that can break website compatibility.
 
     ||localhost^$important,third-party
     
