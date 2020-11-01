@@ -5,6 +5,7 @@ Blocks javascript functions used for psychological profiling and tracking.
 For better security, use the tampermonkey script https://pastebin.com/raw/WUkCaF64 in addition to this addon!!!
 
 These UBlock Origin rules will block portscans, which could also be a problem:
+
     ||localhost^$important,third-party
     
     ||127.*^$important,third-party
