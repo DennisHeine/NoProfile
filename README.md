@@ -2,7 +2,7 @@
 NoProfile - FIrefox addon for blocking psychological profiling through javascript
 
 Blocks javascript functions used for psychological profiling and tracking.
-For better security, use the tampermonkey script https://pastebin.com/raw/WUkCaF64 in addition to this addon!!!
+For better security, also use the tampermonkey script https://pastebin.com/raw/WUkCaF64 !!!
 
 In adition, these UBlock Origin rules will block portscans, which could also be a problem. Please add them to your UBlock settings:
 
